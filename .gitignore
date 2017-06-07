@@ -1,0 +1,4 @@
+/node_modules
+/public/favicon.ico
+/public/manifest.json
+/src/firebase.js
